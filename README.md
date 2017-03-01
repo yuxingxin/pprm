@@ -63,5 +63,5 @@ Options:
 ### LICENSE
 MIT
 
-[npm-image]: https://img.shields.io/badge/npm-v1.0.1-blue.svg
+[npm-image]: https://img.shields.io/badge/npm-v1.0.2-blue.svg
 [npm-url]: https://www.npmjs.com/package/pprm
