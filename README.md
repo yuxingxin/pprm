@@ -1,6 +1,6 @@
 ### pprm -- Pypi registry manager
 
-`pprm` can help you switch between different registries essily,now include:
+`pprm` can help you switch between different registries easily,now include:
 
  * [pypi](https://pypi.python.org/simple/)
  * [douban](https://pypi.doubanio.com/simple/)
@@ -9,13 +9,13 @@
  * [ustc](https://mirrors.ustc.edu.cn/pypi/web/simple/)
 
 
- ### Install
+### Install
 
  ```
  $  npm install -g pprm
  ```
 
- ### Example
+### Example
  ```
  $ prm ls
 
@@ -34,7 +34,7 @@ Registry has been set to: http://mirrors.aliyun.com/pypi/simple/
 
  ```
 
- ### Usage
+### Usage
 
 ```
   Usage: prm [options] [command]
