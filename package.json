@@ -1,6 +1,6 @@
 {
   "name": "pprm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Python package registry manager , which can switch between different registries easily",
   "bin": {
     "prm":"./cli.js"

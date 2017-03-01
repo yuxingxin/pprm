@@ -1,5 +1,7 @@
 ### pprm -- Pypi registry manager
 
+[![NPM version][npm-image]][npm-url]
+
 `pprm` can help you switch between different registries easily,now include:
 
  * [pypi](https://pypi.python.org/simple/)
@@ -60,3 +62,6 @@ Options:
 
 ### LICENSE
 MIT
+
+[npm-image]: https://img.shields.io/badge/npm-v1.0.1-blue.svg
+[npm-url]: https://www.npmjs.com/package/pprm
