@@ -48,6 +48,12 @@ program.command('test [registry]')
     .description('Show response time for specific or all registries')
     .action(onTest)
 
+program.command('help')
+    .description('Print this help')
+        .action(function () {
+            program.outputHelp();
+        });
+
 program.parse(process.argv);
 
 function onTest(registry) {

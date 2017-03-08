@@ -1,13 +1,13 @@
 {
   "name": "pprm",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "Python package registry manager , which can switch between different registries easily",
   "bin": {
     "prm":"./cli.js"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:yuxingxin/prm.git"
+    "url": "git@github.com:yuxingxin/pprm.git"
   },
   "scripts": {
     "prm": "node cli.js"
@@ -18,9 +18,9 @@
   ],
   "author": "Sean",
   "license": "MIT",
-  "homepage": "https://github.com/yuxingxin/prm",
+  "homepage": "https://github.com/yuxingxin/pprm",
   "bugs": {
-    "url": "https://github.com/yuxingxin/prm/issues"
+    "url": "https://github.com/yuxingxin/pprm/issues"
   },
   "dependencies": {
     "async": "^2.1.5",
